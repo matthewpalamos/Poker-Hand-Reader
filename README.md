@@ -1,10 +1,10 @@
 Euler 54
 
-Instructions
+# Instructions
 
 npm install
 node index.js
 
-For testing the functions
+# For testing the functions
 
 npm test
