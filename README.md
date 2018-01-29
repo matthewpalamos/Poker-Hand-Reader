@@ -2,8 +2,8 @@ Euler 54
 
 # Instructions
 
-npm install
-node index.js
+- npm install 
+- node index.js
 
 # For testing the functions
 
